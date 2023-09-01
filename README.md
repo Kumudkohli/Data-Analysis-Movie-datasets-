@@ -1,4 +1,4 @@
-# Data-Analysis-Movie-datasets-
+# Data-Analysis-Movie-datasets
 
 This repository contains a Python script for performing data analysis on a movie dataset using popular libraries like Pandas, Seaborn, and Matplotlib. The analysis focuses on understanding various aspects of the movies, including actors, directors, ratings, budgets, and more.
 
