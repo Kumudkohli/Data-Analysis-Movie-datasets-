@@ -48,7 +48,7 @@ Before running the script, ensure you have the following libraries installed:
 
 ## Contributors
 
-- Kumud Kohli - [GitHub Profile](https://github.com/kumud-kohli)
+- Kumud Kohli - [GitHub Profile](https://github.com/kumudkohli)
 
 Feel free to contribute to this project by opening issues or pull requests!
 
