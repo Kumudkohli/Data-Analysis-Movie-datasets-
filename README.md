@@ -19,14 +19,14 @@ Before running the script, ensure you have the following libraries installed:
   ```
  
 2. Navigate to the repository directory:
-   ```
-   cd movie-analysis
-   ```
+  ```
+  cd movie-analysis
+  ```
 
 3. Install the required libraries using:
-   ```
-   pip install -r requirements.txt
-   ```
+  ```
+  pip install -r requirements.txt
+  ```
 
 ## Usage
 
