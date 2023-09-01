@@ -15,7 +15,7 @@ Before running the script, ensure you have the following libraries installed:
 
 1. Clone this repository using the command:
   ```
-  git clone https://github.com/your-username/movie-analysis.git
+  git clone https://github.com/kumudkohli/movie-analysis.git
   ```
  
 2. Navigate to the repository directory:
